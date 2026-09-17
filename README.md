@@ -24,8 +24,10 @@ The application scans all files available in the selected working directory, che
 ## Technologies Used :-
  **Python**
  **OS Library** – For working with files, directories, and file paths
- **Shutil Library** – For moving files between folders
+ **Shutil Library** – For moving files between folder
+ 
 
 This project was created to practice **Python file handling, directory management, loops, dictionaries, conditional statements, and automation**. It is a beginner-friendly project that demonstrates how Python can be used to automate everyday tasks and improve productivity.
+
 
 This File Organizer can also be expanded in the future by adding support for more file types, a graphical user interface (GUI), custom folder selection, duplicate file detection, and automatic organization of downloads or other directories.
