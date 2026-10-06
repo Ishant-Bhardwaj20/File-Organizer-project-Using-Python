@@ -2,7 +2,7 @@
 This project is a simple and efficient **File Organizer application built using Python**. It automatically organizes files in a directory by identifying their file extensions and moving them into appropriate folders. The project helps keep directories clean and structured without requiring users to manually sort their files.
 
 The program uses Python's built-in **`os`** and **`shutil`** libraries to perform file and folder operations. It first identifies the current working directory and defines different file categories based on their extensions. The program then creates folders for each category if they do not already exist.
-
+r
 Currently, the File Organizer supports the following file types:
 
  **PDFs** – `.pdf`
